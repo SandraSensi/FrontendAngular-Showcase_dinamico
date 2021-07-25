@@ -1,0 +1,28 @@
+body{
+    background-color:rgba(232, 232, 232, 1);
+}
+
+header{
+    background-color:#FFC0CB;
+    
+}
+
+
+.card-img-top {
+    height: 150px;
+    width: 100%;
+  }
+.card-body{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:#FFC0CB;
+    height: 50px;
+    color: grey;
+}
+
+.shopping-cart-image {
+    max-width: 80px;
+    border-radius: 20px;
+  }
